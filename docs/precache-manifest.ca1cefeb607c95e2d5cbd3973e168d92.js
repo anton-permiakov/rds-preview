@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9dca263c2e513fa2485b884fd76d5158",
+    "revision": "6fbcc2aa71629612e95f4954da02a294",
     "url": "/rds-preview/index.html"
   },
   {
-    "revision": "ef8a651b1e342df8a01d",
-    "url": "/rds-preview/static/css/main.84a22410.chunk.css"
+    "revision": "abc9bb2ae995359c5a77",
+    "url": "/rds-preview/static/css/main.4e552a8c.chunk.css"
   },
   {
     "revision": "234ac329d738cc74faec",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rds-preview/static/js/2.875ac99f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef8a651b1e342df8a01d",
-    "url": "/rds-preview/static/js/main.dd0c08c6.chunk.js"
+    "revision": "abc9bb2ae995359c5a77",
+    "url": "/rds-preview/static/js/main.139c43a6.chunk.js"
   },
   {
     "revision": "d38c4d791f6344e8cb69",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9b7e23b4c8191a99fd52651242bf93e4",
     "url": "/rds-preview/static/media/accessory.9b7e23b4.svg"
+  },
+  {
+    "revision": "e82bb87ebdcab50240759e26a5159b8f",
+    "url": "/rds-preview/static/media/br-arrow-left.e82bb87e.svg"
   },
   {
     "revision": "aa73289093837462462372d9c6878203",
@@ -60,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rds-preview/static/media/br-star.7fc5b300.svg"
   },
   {
+    "revision": "23c910c9ebd204fd9e373a13a78607c1",
+    "url": "/rds-preview/static/media/brand-manual.23c910c9.svg"
+  },
+  {
     "revision": "ebbabfd1fa6b386560e434f1a3ee1f4a",
     "url": "/rds-preview/static/media/cam-swap.ebbabfd1.svg"
   },
@@ -70,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd951e7cb07dcecc59a7a5c05a67730a",
     "url": "/rds-preview/static/media/grays.cd951e7c.svg"
+  },
+  {
+    "revision": "a4f9af0f4ba1fb0f724e957bae681f4f",
+    "url": "/rds-preview/static/media/img-thumb.a4f9af0f.svg"
   },
   {
     "revision": "08a644f2a1e870fa1bd5c0af9312a1f6",
