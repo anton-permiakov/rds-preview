@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>star-outline/bold</title>
+    <defs>
+        <path d="M21.206,10.485 L16.3333333,0.610326618 L11.459,10.485 L0.560433259,12.0699518 L8.447,19.757 L6.58509763,30.611295 L16.333,25.486 L26.081569,30.611295 L24.219,19.756 L32.1062334,12.0699518 L21.206,10.485 Z M13.4521405,13.2283492 L16.333,7.389 L19.2145262,13.2283492 L25.659,14.164 L20.9962643,18.709642 L22.096,25.127 L16.3333333,22.0973577 L10.569,25.127 L11.6704024,18.709642 L7.006,14.164 L13.4521405,13.2283492 Z" id="path-1"></path>
+    </defs>
+    <g id="star-outline/bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#5AA617" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

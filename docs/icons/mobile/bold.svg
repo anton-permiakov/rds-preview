@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mobile/bold</title>
+    <defs>
+        <path d="M23.1666667,1 C24.7314734,1 26,2.26852655 26,3.83333333 L26,3.83333333 L26,27.8333333 C26,29.3981401 24.7314734,30.6666667 23.1666667,30.6666667 L23.1666667,30.6666667 L9.83333333,30.6666667 C8.26852655,30.6666667 7,29.3981401 7,27.8333333 L7,27.8333333 L7,3.83333333 C7,2.26852654 8.26852654,1 9.83333333,1 L9.83333333,1 Z M23,4 L20.666,3.999 L20.6666667,5.33333333 L12.3333333,5.33333333 L12.333,3.999 L10,4 L10,27.666 L23,27.666 L23,4 Z" id="path-1"></path>
+    </defs>
+    <g id="mobile/bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#5AA617" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

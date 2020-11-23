@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>print/regular</title>
+    <g id="print/regular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23.6666667,3 L23.666,11 L29,11 L29,25 L23.666,25 L23.6666667,29 L8.33333333,29 L8.333,25 L3,25 L3,11 L8.333,11 L8.33333333,3 L23.6666667,3 Z M21.666,19.666 L10.333,19.666 L10.332,23.983 L10.3333333,24 L10.332,24.017 L10.333,27 L21.666,27 L21.666,19.666 Z M27,13 L5,13 L5,23 L8.333,23 L8.33333333,17.6666667 L23.6666667,17.6666667 L23.666,23 L27,23 L27,13 Z M21.666,5 L10.333,5 L10.333,11 L21.666,11 L21.666,5 Z" id="Combined-Shape" fill="#E21B23" fill-rule="nonzero"></path>
+    </g>
+</svg>

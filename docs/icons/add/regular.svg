@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>add/regular</title>
+    <defs>
+        <polygon id="path-1" points="16.6666667 5 16.666 14.666 26.3333333 14.6666667 26.3333333 16.6666667 16.666 16.666 16.6666667 26.3333333 14.6666667 26.3333333 14.666 16.666 5 16.6666667 5 14.6666667 14.666 14.666 14.6666667 5"></polygon>
+    </defs>
+    <g id="add/regular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#E21B23" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

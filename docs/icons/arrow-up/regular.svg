@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-up/regular</title>
+    <g id="arrow-up/regular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,10.5857864 L24.7071068,19.2928932 C25.0976311,19.6834175 25.0976311,20.3165825 24.7071068,20.7071068 C24.3466228,21.0675907 23.7793918,21.0953203 23.3871006,20.7902954 L23.2928932,20.7071068 L16,13.415 L8.70710678,20.7071068 C8.34662282,21.0675907 7.77939176,21.0953203 7.38710056,20.7902954 L7.29289322,20.7071068 C6.93240926,20.3466228 6.90467972,19.7793918 7.20970461,19.3871006 L7.29289322,19.2928932 L16,10.5857864 Z" id="Path" fill="#E21B23" fill-rule="nonzero"></path>
+    </g>
+</svg>

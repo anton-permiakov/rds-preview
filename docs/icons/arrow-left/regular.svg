@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-left/regular</title>
+    <g id="arrow-left/regular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19.2928932,7.29289322 C19.6834175,6.90236893 20.3165825,6.90236893 20.7071068,7.29289322 C21.0675907,7.65337718 21.0953203,8.22060824 20.7902954,8.61289944 L20.7071068,8.70710678 L13.415,16 L20.7071068,23.2928932 C21.0675907,23.6533772 21.0953203,24.2206082 20.7902954,24.6128994 L20.7071068,24.7071068 C20.3466228,25.0675907 19.7793918,25.0953203 19.3871006,24.7902954 L19.2928932,24.7071068 L10.5857864,16 L19.2928932,7.29289322 Z" id="Path" fill="#E21B23" fill-rule="nonzero"></path>
+    </g>
+</svg>

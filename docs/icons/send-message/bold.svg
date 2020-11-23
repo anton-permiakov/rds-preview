@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>send-message/bold</title>
+    <defs>
+        <path d="M1.5,1.04800814 L1.5,14.5343588 L7.765,16.262 L1.5,17.8288354 L1.5,31.622778 L30.7270296,16.3345975 L1.5,1.04800814 Z M4.5,6.003 L24.254,16.334 L4.5,26.667 L4.5,20.171 L19.5670916,16.4043917 L4.5,12.249 L4.5,6.003 Z" id="path-1"></path>
+    </defs>
+    <g id="send-message/bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#5AA617" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

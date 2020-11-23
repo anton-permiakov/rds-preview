@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>message/regular</title>
+    <g id="message/regular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M29,4 L29,23.3333333 L17.636,23.333 L8.33333333,29.5351838 L8.333,23.333 L3,23.3333333 L3,4 L29,4 Z M27,6 L5,6 L5,21.333 L10.3333333,21.3333333 L10.333,25.797 L17.0305577,21.3333333 L27,21.333 L27,6 Z M20,12 C20.5522847,12 21,12.4477153 21,13 C21,13.5128358 20.6139598,13.9355072 20.1166211,13.9932723 L20,14 L12,14 C11.4477153,14 11,13.5522847 11,13 C11,12.4871642 11.3860402,12.0644928 11.8833789,12.0067277 L12,12 L20,12 Z" id="Combined-Shape" fill="#E21B23" fill-rule="nonzero"></path>
+    </g>
+</svg>

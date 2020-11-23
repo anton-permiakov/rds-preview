@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>laptop/bold</title>
+    <g id="laptop/bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1.5,27 C0.671572875,27 0,26.3284271 0,25.5 C0,24.7203039 0.594888083,24.0795513 1.35553999,24.0068666 L1.5,24 L3,24 L3,9 C3,7.34314575 4.34314575,6 6,6 L6,6 L27,6 C28.6568542,6 30,7.34314575 30,9 L30,9 L30,24 L30,24 L31.5,24 C32.3284271,24 33,24.6715729 33,25.5 C33,26.2796961 32.4051119,26.9204487 31.64446,26.9931334 L31.5,27 L1.5,27 Z M27,9 L6,9 L5.999,22.5 L26.999,22.5 L27,9 Z" id="Combined-Shape" fill="#5AA617"></path>
+    </g>
+</svg>
